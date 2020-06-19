@@ -12,8 +12,8 @@ Projects of 蔡文錦 Operating System Course 2018 at National Chiao Tung Univer
 ## Contents
 **Programming Language:** C/C++
 
-[HW1](https://github.com/wishx97/Operating_System/tree/master/Homework1) Design shell interface
+[HW1](https://github.com/wishx97/Operating-System-NCTU/tree/master/Homework1) Design shell interface
 
-[HW2](https://github.com/wishx97/Operating_System/tree/master/Homework2) Multi-Threading Programming
+[HW2](https://github.com/wishx97/Operating-System-NCTU/tree/master/Homework2) Multi-Threading Programming
 
-[HW3](https://github.com/wishx97/Operating_System/tree/master/Homework3) Implementation of Process Scheduling
+[HW3](https://github.com/wishx97/Operating-System-NCTU/tree/master/Homework3) Implementation of Process Scheduling
